@@ -24,6 +24,6 @@ public class Solution {
             ++indexSpacedInput;
         }
 
-        return String.valueOf(spacedInput);
+        return new String(spacedInput);
     }
 }
